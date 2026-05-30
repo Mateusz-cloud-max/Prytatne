@@ -1,2 +1,2 @@
-# Prytatne
+# Prywatne
 Vixdrop dla deva
